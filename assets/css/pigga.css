@@ -11950,3 +11950,15 @@ section.has-img-bg:after {
 .hide {
   display: none;
 }
+
+/* For mobile phones: */
+@media only screen and (max-width: 768px) {
+  section.has-overlay * {
+    display: grid;
+    text-align: center;
+  }
+
+  .custom-list .img-holder {
+    margin: 0 auto;
+  }
+}
