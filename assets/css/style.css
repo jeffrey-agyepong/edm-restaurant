@@ -4,13 +4,20 @@
 
 /* For mobile phones: */
 @media only screen and (max-width: 768px) {
-  section.has-overlay * {
+  .custom-list {
     display: grid;
     text-align: center;
   }
 
   .custom-list .img-holder {
     margin: 0 auto;
+  }
+  .filter {
+    display: none;
+  }
+
+  .show {
+    display: block;
   }
 }
 
