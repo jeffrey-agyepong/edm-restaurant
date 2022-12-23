@@ -11233,7 +11233,7 @@ a.text-dark:focus {
 }
 
 .text-muted {
-  color: #adb5bd !important;
+  color: #352828 !important;
 }
 
 .text-black-50 {
@@ -11946,5 +11946,3 @@ section.has-img-bg:after {
   opacity: 0.7;
   margin-bottom: 15px;
 }
-
-
