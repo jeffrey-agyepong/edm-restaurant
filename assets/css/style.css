@@ -62,3 +62,7 @@
   color: rgb(255, 255, 255);
   box-shadow: 2px 20px 45px 5px rgba(95, 41, 41, 0.2);
 }
+
+.text-muted-menu {
+  color: #fff !important;
+}
